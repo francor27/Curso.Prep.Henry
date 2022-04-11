@@ -1,0 +1,11 @@
+    * Variables
+    las variables son formas que tenemos para almacenar alguna informacion para utilizarla despues,
+    hay 3 formas de crear una variable: var, let y const, const es una variable que no se puede modificar, o sea, una costante.
+	* Strings
+    son bloques de texto, y se escriben siempre entre comillas simples o dobles.
+	* Funciones (argumentos, `return`)
+    los argumentos son valores que le pasamos a la funcion entre los parentesis, y el return es la forma que tenemos para que esa funcion nos devuelva algo, y termine su ejecucion.
+	* Declaraciones `if`
+    las declaraciones if sirven para que la funcion determine el valor booleano true o false y decida si continuar o no la ejecucion, if significa si, (si tal cosa pasa entonces haz esto)
+	* Valores booleanos (`true`, `false`)
+    los valores booleanoslos usamos para determinar si una expresion en la funcion es verdadero o falso y asi poder continuar con la ejecucion del programa o no.
