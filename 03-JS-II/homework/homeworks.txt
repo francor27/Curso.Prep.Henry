@@ -1,0 +1,9 @@
+*Bucles for:
+los ciclos for son bucles que repiten hasta que una determinada condicion se evalùe como falsa, un ciclo for se compone de una inicializacion, luego una comparaciòn en la que se ejecuta el codigo del cuerpo y como tercer paso se realiza una accion,como  incrementar un numero, devolver un dato  etc.
+
+*Operadores Logicos: &&, ||, !
+
+
+el operador "Y"(AND en ingles) se escribe con el simbolo '&&' y evalùa que ambas expresiones cumplan con una condicion.
+el operador "O" (OR en ingles) se escribe '||', y necesita que al menos una de las condiciones se cumpla para devolver true o false segun sea el caso.
+el operador "NO" (NOT en ingles) lleva el simbolo '!' y devuelve el valor booleano opuesto al que se le pasa, funciona como 'lo opuesto a'
