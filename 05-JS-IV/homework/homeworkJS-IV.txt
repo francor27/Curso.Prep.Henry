@@ -1,0 +1,9 @@
+*Objetos y sus propiedades: un objeto es una coleccion de propiedades, y sus propiedades son una asociacion par entre clave, valor.
+los objetos se escriben con {} , la clave (key) es el identificador, y el valor (value) es el valor que guardamos en esa clave. a diferencia de los arrays que la clave era un indice numerico, en los objetos son strings.
+
+*Métodos: como en los arreglos, los objetos pueden contener distintos tipos de datos, strings, numeros, buleanos, funciones, etc, las funciones que guardemos en los objetos seran llamadas metodos-
+
+*Bucle for…in: para iterar sobre los pares clave valor de nuestro objeto,podemos usar un bucle for, pero como a diferencia de los arreglos, los objetos no contienen indices numericos, el bucle for sera un poco distinto, agregando un "in", este bucle for in se escribe parecido pero cambia un poco su sintaxis, comienza igual, pero entre parentesis declaramos una variable, la pabra clave in, y el nombre del objeto.
+
+*Notación de puntos vs notación de corchetes:
+para acceder a los valores de un objeto se pueden utilizar dos maneras, una usando puntos y la otra usando corchetes. en la notacion de puntos llamamos al nombre del objeto seguido de un punto y el nombre clave. en la notacion con corchetes es igual que en una matriz/array, utilizando el corchete y dentro el nombre de la clave.
