@@ -1,0 +1,6 @@
+Prototype:
+todos los objetos de JavaScript tienen referencia  a otro objeto, llamado proto. 
+cuando creamos una funcion, el motor de JavaScript agrega una propiedad llamada prototypes a esa funcion, esta propiedad es un objeto que contiene un constructor por defecto. 
+Constructor de clases:
+El método constructor es un método especial para crear e inicializar un objeto creado con una clase.
+
