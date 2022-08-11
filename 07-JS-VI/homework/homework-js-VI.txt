@@ -1,0 +1,3 @@
+CallBacks
+
+un callback es una funcion que se pasa como argumento a otra funcion para su ejecucion posterior.
